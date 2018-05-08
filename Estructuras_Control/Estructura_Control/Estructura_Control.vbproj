@@ -68,6 +68,21 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2_1.vb" />
+    <Compile Include="2_10.vb" />
+    <Compile Include="2_11.vb" />
+    <Compile Include="2_12.vb" />
+    <Compile Include="2_13.vb" />
+    <Compile Include="2_14.vb" />
+    <Compile Include="2_15.vb" />
+    <Compile Include="2_2.vb" />
+    <Compile Include="2_3.vb" />
+    <Compile Include="2_4.vb" />
+    <Compile Include="2_5.vb" />
+    <Compile Include="2_6.vb" />
+    <Compile Include="2_7.vb" />
+    <Compile Include="2_8.vb" />
+    <Compile Include="2_9.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
